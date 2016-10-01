@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FoodTracker.xcscheme</key>
+		<key>FoodTracker.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2F4EBAFC1D9F8DBC00E3E4B9</key>
+		<key>CA1902DB1B10E523000271C4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2F4EBB101D9F8DBD00E3E4B9</key>
+		<key>CA1902EF1B10E523000271C4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
